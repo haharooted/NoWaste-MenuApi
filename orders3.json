@@ -1,1 +1,113 @@
-[{"_id":"5c05177b8ec49d040087dfa5","items":[{"id":15,"item":"90 Minute Holiday Turkey Soup","price":8,"description":"A fine simmer of apple cider infused organic roasted turkey stock, 90-minute dogfish head i.p.a., roasted organic pennsylvania farmed turkey meat, bacon, green apples shavings, carrot, onion, celery, red potato, sweet corn, gorgonzola cheese & fried pecan sour cherry stuffing fritter installed to order.","allergies":0,"favorite":0,"spicy":0,"vegan":0,"options":{}}],"total":8.66,"tax":0.66,"state":"incomplete","timeStamp":"2018-12-03T11:46:01.938Z"},{"_id":"5c05177b8ec49d040087dfa4","items":[{"id":15,"item":"90 Minute Holiday Turkey Soup","price":8,"description":"A fine simmer of apple cider infused organic roasted turkey stock, 90-minute dogfish head i.p.a., roasted organic pennsylvania farmed turkey meat, bacon, green apples shavings, carrot, onion, celery, red potato, sweet corn, gorgonzola cheese & fried pecan sour cherry stuffing fritter installed to order.","allergies":0,"favorite":0,"spicy":0,"vegan":0,"options":{}}],"total":8.66,"tax":0.66,"state":"incomplete","timeStamp":"2018-12-03T11:45:55.574Z"},{"_id":"5c05177a8ec49d040087dfa3","items":[{"id":15,"item":"90 Minute Holiday Turkey Soup","price":8,"description":"A fine simmer of apple cider infused organic roasted turkey stock, 90-minute dogfish head i.p.a., roasted organic pennsylvania farmed turkey meat, bacon, green apples shavings, carrot, onion, celery, red potato, sweet corn, gorgonzola cheese & fried pecan sour cherry stuffing fritter installed to order.","allergies":0,"favorite":0,"spicy":0,"vegan":0,"options":{}}],"total":8.66,"tax":0.66,"state":"incomplete","timeStamp":"2018-12-03T11:46:00.471Z"},{"_id":"5c0155a01e7cd00400b59729","items":[{"id":9,"item":"Bacon Smoked Gouda Macaroni & Cheese","price":7,"description":"","allergies":0,"favorite":0,"spicy":0,"vegan":0,"options":{}},{"id":4,"item":"Mashed Red Potato Poached Garlic & Parmesan","price":5,"description":"","allergies":0,"favorite":0,"spicy":0,"vegan":0,"options":{}},{"id":25,"item":"12oz Atlantic Sea Scallops","price":28,"description":"All natural colossal ocean pillows of love, 95% harvested are unnaturally pumped to plump, we are the 5%.","allergies":1,"favorite":0,"spicy":0,"vegan":0,"options":{}}],"total":43.3,"tax":3.3,"state":"incomplete","timeStamp":"2018-11-30T15:22:08.629Z"}]
+{
+    "Forretter": [{
+        "id": 15,
+        "item": "Gratineret hummer",
+        "price": 145,
+        "description": "Marineret i honning, soya, koriander, chili, hvidløg og balsamico. Toppet medkoriander, Ørredrogn, og grøn masago",
+        "allergies": 0,
+        "favorite": 0,
+        "spicy": 1,
+        "vegan": 0
+    }, {
+        "id": 18,
+        "item": "Rejecocktail",
+        "price": 110,
+        "description": "Rejer, rødløg, ingefær og citron. Toppet med sprødstegt rispapir",
+        "allergies": 1,
+        "favorite": 0,
+        "spicy": 1,
+        "vegan": 0
+    }, {
+        "id": 19,
+        "item": "Jomfruhummertatar",
+        "price": 160,
+        "description": "Dejlig Jomfruhummertatar, frisk fra havet.",
+        "allergies": 0,
+        "favorite": 0,
+        "spicy": 0,
+        "vegan": 0
+    }, {
+        "id": 22,
+        "item": "Jordskokpuré med gulerødder",
+        "price": 125,
+        "description": "Vegansk lækker jorskokpure med søde Danske gulerødder.",
+        "allergies": 0,
+        "favorite": 1,
+        "spicy": 0,
+        "vegan": 1
+    }],
+    "Hovedretter": [{
+        "id": 24,
+        "item": "Helstegt kalveculotte",
+        "price": 260,
+        "description": "Stegetid ca. 30 minutter.",
+        "allergies": 0,
+        "favorite": 1,
+        "spicy": 0,
+        "vegan": 0
+    }, {
+        "id": 25,
+        "item": "Oksefilet stegt på egeplanke",
+        "price": 285,
+        "description": "Stegetid ca. 30 minutter.",
+        "allergies": 1,
+        "favorite": 0,
+        "spicy": 0,
+        "vegan": 0
+    }, {
+        "id": 28,
+        "item": " Steak af kalvefilet",
+        "price": 299,
+        "description": "Stegetid ca. 45 minutter",
+        "allergies": 0,
+        "favorite": 1,
+        "spicy": 0,
+        "vegan": 0
+    }, {
+        "id": 33,
+        "item": "Steak af oksemørbrad",
+        "price": 199,
+        "description": "Den bedste kvalitet i byen.",
+        "allergies": 0,
+        "favorite": 1,
+        "spicy": 0,
+        "vegan": 0
+    }],
+    "Drikkevarer": [{
+        "id": 4,
+        "item": "Pepsi",
+        "price": 20,
+        "description": "Dejlig brusende Pepsi",
+        "allergies": 0,
+        "favorite": 0,
+        "spicy": 0,
+        "vegan": 0
+    }, {
+        "id": 9,
+        "item": "Sprite",
+        "price": 20,
+        "description": "Dejlig brusende Sprite",
+        "allergies": 0,
+        "favorite": 0,
+        "spicy": 0,
+        "vegan": 0
+    }, {
+        "id": 3,
+        "item": "Vand",
+        "price": 10,
+        "description": "Dejlig kold vand",
+        "allergies": 0,
+        "favorite": 0,
+        "spicy": 0,
+        "vegan": 0
+    }, {
+        "id": 6,
+        "item": "Flaske Vin",
+        "price": 350,
+        "description": "Dejlig vin fra Italien.",
+        "allergies": 0,
+        "favorite": 1,
+        "spicy": 0,
+        "vegan": 0
+    }]
+}
